@@ -1,6 +1,7 @@
 # **Gnomes vs Camelot**  
 
-**Gnomes vs Camelot** is a **lane-based tower defense game** inspired by *Plants vs. Zombies*. Built-in **Unity 6**, this game brings a fresh fantasy twist where **gnomes** defend their enchanted forest against invading **knights of Camelot** in strategic, wave-based battles.  
+**Gnomes vs Camelot** is a **lane-based tower defense game** inspired by *Plants vs. Zombies*. Built-in **Unity 6**, this game brings a fresh fantasy twist where **gnomes** defend their enchanted forest against invading **knights of Camelot** in strategic, wave-based battles. 
+Players take command of the Gnomes of Elderglen, using magic, trickery, and nature-based defenses to stop the invading Ironclad Knights from reaching the Tree of Everlight—the source of all magic in the land.
 
 🛠 **Platform:** **Android**  
 
